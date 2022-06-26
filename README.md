@@ -15,7 +15,7 @@ If you need to support for Laravel 4.1/4.2 checkout out TwigBridge 0.6.x, or 0.5
 Require this package with Composer
 
 ```bash
-composer require rcrowe/twigbridge
+composer require ibn-dev-support/twigbridge
 ```
 
 # Quick Start
